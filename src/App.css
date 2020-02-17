@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.sim-card {
+  width: 60px;
+  height: 50px;
+}
+.master-card-logo {
+  width: 200px;
+  height: 120px;
+}
